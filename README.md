@@ -21,6 +21,3 @@ Monitoring Satisfaction.
 Monthly Report.
 
 ## Contact :-
-LinkedIn : https://www.linkedin.com/in/dhruv-kaneria-a7440820a
-
-Email : kaneriadhruv@gmail.com
